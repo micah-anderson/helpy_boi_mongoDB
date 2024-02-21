@@ -1,6 +1,6 @@
 # MongoDB Mastery Game 🎮
 
-Welcome to the MongoDB Mastery Game! This interactive command-line game helps you learn MongoDB commands at different mastery levels.
+Welcome to the MongoDB Mastery Game! This interactive command-line games aim is to help you learn the MongoDB commands at different mastery levels.
 
 ## How to Play 🕹️
 
